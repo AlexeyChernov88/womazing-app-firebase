@@ -2,7 +2,7 @@
     "name": "womazing-app",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://Al1988-Black.github.io/womazing-app-firebase/",
+    "homepage": "https://AlexeyChernov88.github.io/womazing-app-firebase/",
     "dependencies": {
         "-": "^0.0.1",
         "@reduxjs/toolkit": "^1.9.0",
